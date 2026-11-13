@@ -1,0 +1,94 @@
+ Program Params
+===========================================
+ Program Params
+===========================================
+FormMain_Top=          146
+FormMain_Left=         600
+FormMain_Width=        720
+FormMain_Height=       600
+FormMain_WindowState=  0
+
+FormInfo_Top=          146
+FormInfo_Left=         1320
+FormInfo_Width=        300
+FormInfo_Height=       490
+FormInfo_WindowState=  0
+FormInfo_VisibleAtStart=False
+
+ Menu and Tools
+===========================================
+SensorType=            0
+SpectrumFileSeparator= ;
+SpectrumFileType=      CSV
+SlotCommands=          31
+SlotResponses=         32
+Language=              ENG
+SaveTime=              0
+Repeat=                False
+Options=               True
+
+ COM PORT Params
+===========================================
+ComPort=               
+ComSpeed=              1000000
+Connected=             True
+
+ Video Input Params
+===========================================
+VideoInDevice=         1 USB-ZH
+VideoFormat=           MJPG
+VideoSize=             1920 x 1080
+VideoFPS=              15
+Form_VideoInControls_Top=146
+Form_VideoInControls_Left=1320
+Form_VideoInControls_VisibleAtStart=False
+
+ Save Image
+===========================================
+FileName=              Test1
+FileFormat=            JPG
+FilePath=              C:\Users\Win10\Documents\SPECTRO_SENSORS
+
+ Filters
+===========================================
+SpatialAveraging=      0
+RisingSpeed=           100
+FallingSpeed=          100
+
+ Sensor
+===========================================
+Resolution=            0
+AdcSpeed=              0
+AutoExposureEnabled=   True
+Exposure=              57
+AverageEnabled=        False
+Average=               2
+
+ Sensor samples
+===========================================
+DebugType=             0
+Scale=                 6
+AdcMax=                910
+AdcMin=                13
+AdcMinAuto=            True
+StartX=                0
+FlipH=                 True
+FlipV=                 True
+EndX=                  1000
+StartY=                503
+SizeY=                 98
+
+ Status bar
+===========================================
+LogScale=              0
+Dips=                  False
+Peaks=                 False
+Colors=                True
+TrimScale=             False
+
+ Last files
+===========================================
+LastCalibrationFile=   C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Theremino_Spectrometer_V5.0\Theremino_Spectrometer\Files\Calib1.txt
+LastLoadedFile=        LastSpectrum.txt
+LastFileLoadedOrSavedByUser=Test1_030.csv
+LastIrradianceCoeffsFile=C:\Livio\Sistema_Theremino\Theremino_Spectrometer\Theremino_Spectrometer_V5.0\Theremino_Spectrometer\Files\IrradianceCoeffs\Coeffs_FLAT.txt

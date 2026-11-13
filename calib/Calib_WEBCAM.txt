@@ -1,0 +1,2 @@
+CalibrationBins=       0.277777777777778|0.555555555555555
+CalibrationNanometers= 436|546
